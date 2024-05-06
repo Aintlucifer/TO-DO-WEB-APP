@@ -1,0 +1,25 @@
+#duo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#pic{
+    border: 15px solid violet;
+}
+.but{
+
+    height: 30px;
+    max-width: 200px;
+    min-width: 100px;
+    background-color: yellow;
+    margin-top: 5px;
+}
+.web{
+    display: flex;
+    color: aqua;
+    flex-direction: column;
+    align-items: center;
+    /* border:1px solid black; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
